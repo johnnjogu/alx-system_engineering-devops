@@ -1,1 +1,1 @@
-Create a script that creates a new global variable.
+TRUEKNOWLEDGE, followed by a new line.
